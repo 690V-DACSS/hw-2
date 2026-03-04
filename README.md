@@ -8,9 +8,11 @@ The goal of this assignment was to reproduce the visualizations shown in the HW2
 
 ## 📊 Dashboard
 
-The published dashboard is available here:
+## 🔗 GitHub Repository
+https://github.com/690V-DACSS/hw-2
 
-👉 (Link will be available after GitHub Pages is enabled)
+## 🌐 Live Dashboard
+https://690V-DACSS.github.io/hw-2/
 
 ---
 
